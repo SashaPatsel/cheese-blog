@@ -30,6 +30,20 @@ p {
     font-family: 'ZCOOL KuaiLe', cursive;
 }
 
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 50px 0;
+}
+
+img {
+    width: 400px;
+    margin: auto;
+    display: block;
+}
+
 .parallax {
     top: 0;
     left: 0;
@@ -50,7 +64,7 @@ p {
 }
 
 .blog-container {
-    margin-top: 20px;
+    margin: 20px 0;
     background-color: rgba(255, 255, 255, .8);
     width: 100%;
     padding: 20px;
